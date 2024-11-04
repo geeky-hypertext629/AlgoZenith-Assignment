@@ -1,4 +1,4 @@
-import { Bell, Star, Clipboard, ChevronDown, ChevronUp, Clock, Code2, FileText, LayoutDashboard, LayoutGrid, Medal, MessageSquare, Play, School, Trophy, Users, Copy, Menu, BriefcaseBusiness, NotepadText } from "lucide-react"
+import { Bell, Star, Clipboard, ChevronDown, ChevronUp, Clock, Code2, LayoutDashboard, Play, Copy, Menu, BriefcaseBusiness, NotepadText } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Progress } from "@/components/ui/progress"
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs"
